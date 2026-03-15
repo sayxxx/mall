@@ -237,8 +237,8 @@ F05  泰国榴莲（带壳） ¥89.9／斤
 
 ✅ 下单成功！感谢您的购买 🎉
 
-🔢 交易码：62254562871846512
-🔗 支付链接：https://pay-h5.flysay.com/pyment/62254562871846512
+🔢 交易码：xxxxxxxxxxxxxxx
+🔗 支付链接：https://xxxx.com/pyment/xxxxxxxxx
 
 请复制交易码或点击链接完成支付，祝您购物愉快！
 ```
